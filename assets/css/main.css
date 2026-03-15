@@ -1,0 +1,8 @@
+@import "./reset.css"; /* Скидання стилів браузера */
+@import "./fonts.css"; /* Підключення шрифтів */
+@import "./base.css"; /* Базові стилі сторінки (body, h1-h6, p, a, img) */
+@import "./layout.css"; /* Блоки.div, section, wrappper */
+@import "./typography.css"; /* Типографіка: заголовки та текст */
+@import "./common.css"; /* Спільні перевикористовувані класи */
+@import "./components/button.css"; /* Кнопки */
+@import "./components/media.css"; /* Медіа файли */
